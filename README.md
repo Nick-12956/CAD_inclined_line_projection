@@ -1,5 +1,5 @@
 # CAD_inclined_line_projection
-AutoCAD auto drawing of inclined line projection  
+AutoCAD auto drawing of inclined line projection (First angle projection)  
 IT WORKS FOR 4 DIFFERENT CASES  
 1. inclined to HP  
 2. inclined to VP
